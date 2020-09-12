@@ -1,4 +1,4 @@
-# task1
+# Task1
 Swing overview and a simple example.
 # Getting started
 In order to learn swing we have to work on netbeans IDE.
@@ -19,8 +19,7 @@ Every user interface considers the following three main aspects −
 * UI Elements − These are the core visual elements the user eventually sees and interacts with.
 * Layouts − They define how UI elements should be organized on the screen and provide a final look and feel to the GUI (Graphical User Interface). 
 * Behavior − These are the events which occur when the user interacts with UI elements.
-<br/><br/>
-Every SWING controls inherits properties from the following Component class hiearchy.
+<br/><br/>Every SWING controls inherits properties from the following Component class hiearchy.
 * Component: a component is the abstract base class for the non menu user-interface controls of SWING. Component represents an object with graphical representation.
 * Container: a container is a component that can contain other SWING components.
 * JComponent: a JComponent is a base class for all SWING UI components. In order to use a SWING component that inherits from JComponent, the component must be in a containment hierarchy whose root is a top-level SWING container.
