@@ -198,3 +198,6 @@ Methods for minimize icon
 ### Example No. 3:
 ![Result5](https://github.com/shazaalqays/task1/blob/master/Task3/images/loginsucc.jpg) <br/><br/>
 ![Result6](https://github.com/shazaalqays/task1/blob/master/Task3/images/loginfai.jpg) <br/><br/>
+### Example No. 4:
+![Result5](https://github.com/shazaalqays/task1/blob/master/Task4/view.jpg) <br/><br/>
+
