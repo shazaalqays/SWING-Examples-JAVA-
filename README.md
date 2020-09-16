@@ -187,5 +187,14 @@ Methods for minimize icon
 
 ```
 ## Demo images
+### Example No. 1:
 ![Result1](https://github.com/shazaalqays/task1/blob/master/test/images/demo1.jpg) <br/><br/>
 ![Result2](https://github.com/shazaalqays/task1/blob/master/test/images/demo2.jpg) <br/><br/>
+
+### Example No. 2:
+![Result3](https://github.com/shazaalqays/task1/tree/master/Task2/images/convert1.jpg) <br/><br/>
+![Result4](https://github.com/shazaalqays/task1/tree/master/Task2/images/convert2.jpg) <br/><br/>
+
+### Example No. 3:
+![Result5](https://github.com/shazaalqays/task1/tree/master/Task3/images/loginsucc.jpg) <br/><br/>
+![Result6](https://github.com/shazaalqays/task1/tree/master/Task3/images/loginfai.jpg) <br/><br/>
