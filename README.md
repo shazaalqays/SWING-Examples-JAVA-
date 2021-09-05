@@ -1,4 +1,4 @@
-# Task1
+# SWING
 Swing overview and a simple example.
 # Getting started
 In order to learn swing we have to work on netbeans IDE.
